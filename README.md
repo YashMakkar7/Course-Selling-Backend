@@ -43,5 +43,3 @@ Use Postman to test the following endpoints:
 ## Project Contributors
 - Yash Makkar
 
-## License
-This project is licensed under the MIT License.
